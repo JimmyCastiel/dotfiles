@@ -8,6 +8,7 @@ return {
 		cmd = { "Dap", "DapToggleBreakpoint", "DapContinue" },
 		-- Alternatively, for specific filetypes:
 		-- ft = { "python", "javascript", "typescript", "c", "cpp" },
+		ft = { "rust", "c", "java", "go", "ruby", "python" },
 	},
 	{
 		"rcarriga/nvim-dap-ui",
