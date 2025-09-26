@@ -57,7 +57,8 @@ return {
 		},
 		config = function(_, opts)
 			if LazyVim.has("mason.nvim") then
-				local package_path = require("mason-registry").get_package("codelldb"):get_install_path()
+				-- local package_path = require("mason-registry").get_package("codelldb"):get_install_path()
+				local package_path = vim.fn.expand("$MASON/packages/codelldb")
 				local codelldb = package_path .. "/extension/adapter/codelldb"
 				local library_path = package_path .. "/extension/lldb/lib/liblldb.dylib"
 				local uname = io.popen("uname"):read("*l")
