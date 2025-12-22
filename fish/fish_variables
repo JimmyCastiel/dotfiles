@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --path GOPATH:/Users/cathaoir/Documents/go/\x1e/Users/cathaoir/Documents/go\x1e/Users/cathaoir/Documents/go\x1e/Users/cathaoir/Documents/go\x1e/Users/cathaoir/Documents/go\x1e/Users/cathaoir/Documents/go\x1e/Users/cathaoir/Documents/go
 SETUVAR __fish_initialized:3800
 SETUVAR _fisher_danhper_2F_fish_2D_ssh_2D_agent_files:\x7e/\x2econfig/fish/functions/__ssh_agent_is_started\x2efish\x1e\x7e/\x2econfig/fish/functions/__ssh_agent_start\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/fish\x2dssh\x2dagent\x2efish
 SETUVAR _fisher_edc_2F_bass_files:\x7e/\x2econfig/fish/functions/__bass\x2epy\x1e\x7e/\x2econfig/fish/functions/bass\x2efish
@@ -33,4 +34,4 @@ SETUVAR fish_pager_color_description:yellow\x1e\x2di
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/opt/homebrew/bin\x1e/Users/cathaoir/\x2ecargo/bin\x1e/opt/homebrew/Cellar/rustup/1\x2e28\x2e2/bin/\x1e/opt/homebrew/opt/rustup/bin\x1e/opt/homebrew/opt/llvm/bin
+SETUVAR fish_user_paths:/opt/homebrew/opt/socket_vmnet/bin\x1e/opt/homebrew/opt/ruby\x403\x2e3/bin\x1e/opt/homebrew/opt/libpq/bin\x1e/opt/homebrew/bin\x1e/Users/cathaoir/\x2ecargo/bin\x1e/opt/homebrew/Cellar/rustup/1\x2e28\x2e2/bin/\x1e/opt/homebrew/opt/rustup/bin\x1e/opt/homebrew/opt/llvm/bin\x1e/opt/homebrew/bin/
